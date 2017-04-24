@@ -1,3 +1,3 @@
 # economics
-lecture notes
+### lecture notes
 1. Principles of microeconomics
